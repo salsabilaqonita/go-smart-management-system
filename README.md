@@ -93,8 +93,7 @@ Each category includes a **"View More"** button for detailed information.
 ---
 
 ## 👥 Created by
-**Salsabila Qonita Kaltsum**  
-📆 Year: 2023
+**Salsabila Qonita Kaltsum** | 2023
 
 ---
 
@@ -102,3 +101,12 @@ Each category includes a **"View More"** button for detailed information.
 This website was built as part of a Management Information System course project, aiming to support digital learning and innovation in Indonesia.
 
 ---
+
+If you have any suggestions or feedback, feel free to contact me via LinkedIn or Email:
+
+📧 salsabila.qonita.kaltsum@gmail.com  
+🔗 [LinkedIn – Salsabila Qonita Kaltsum](https://www.linkedin.com/in/salsabilaqonitakaltsum/)  
+📂 [GitHub Repository](https://github.com/salsabilaqonita/go-smart-management-system)
+
+#WebDevelopment #MISProject #HTML #CSS #JavaScript #UIUX #EduTech
+
