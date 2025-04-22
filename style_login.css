@@ -1,0 +1,73 @@
+*{
+    padding: 0;
+    margin: 0:
+    box-sizing: border-box;
+    font-family: 'Open Lucida','Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+body{
+    background: #A9B388;
+}
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 90vh;
+}
+
+.box{
+    background: #FEFAE0;
+    display: flex;
+    flex-direction: column;
+    padding: 1.563rem 1.563rem;
+    border-radius: 1.25rem;
+    box-shadow: 0 0 8rem 0 rgba(0,0,0,0.1),
+                0 2rem 4rem -3rem rgba(0,0,0,0.5);
+}
+.form-box{
+    width: 28.125rem;
+    margin: 0rem 0.625rem;
+}
+.form-box header{
+    font-size: 1.563rem;
+    font-weight: 600;
+    padding-bottom: 0.625rem;
+    border-bottom: 0.063rem solid #B99470;
+    margin-bottom: 0.625rem;
+}
+.form-box form .field{
+    display: flex;
+    margin-bottom: 0.625rem;
+    flex-direction: column;
+}
+.form-box form .input input{
+    height: 2.5rem;
+    width: 100%;
+    font-size: 1rem;
+    padding: 0 0rem;
+    border-radius: 0.313rem;
+    border: 0.063rem solid #ccc;
+    outline: none;
+}
+
+.btn {
+    height: 2.188rem;
+    background: rgba(175, 125, 90, 0.808);
+    border: 0;
+    border-radius: 0.313rem;
+    color: #fff;
+    font-size: 0.938rem;
+    cursor: pointer;
+    transition: all .3s;
+    margin top: 0.625rem;
+    padding: 0rem 0.625rem;
+}
+.btn :hover {
+    opacity: 0.82;
+}
+.submit {
+    width: 100%;
+}
+
+.link {
+    margin-bottom: 0.938rem;
+}

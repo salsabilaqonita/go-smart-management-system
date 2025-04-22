@@ -1,0 +1,78 @@
+*{
+    text-decoration: none;
+    margin: 0rem;
+    padding: 0rem;
+}
+
+body{
+    margin: 0rem;
+    padding: 0rem;
+}
+
+.wrapper{
+    width: 68.75rem;
+    margin: auto;
+    position: relative;
+}
+
+.logo a {
+    font-size: 3.125rem;
+    font-weight: 800;
+    float: left;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #5F6F52;
+}
+
+.menu {
+    float: right;
+}
+
+nav {
+    width: 100;
+    margin: auto;
+    display: flex;
+    line-height: 5rem;
+    position: sticky;
+    position: -webkit-sticky;
+    top: 0;
+    background: #FEFAE0;
+    z-index: 1000;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+nav ul li {
+    float: left;
+}
+
+nav ul li a {
+    color: black;
+    font-weight: bold;
+    text-align: center;
+    padding: 0rem 1rem 0rem 1rem;
+    text-decoration: none;
+    font-size: 20px;
+}
+
+nav ul li a:hover {
+    text-decoration: underline;
+}
+
+a.tbl-brown {
+    background: #5F6F52;
+    border-radius: 1.25rem;
+    margin-top: 1.25rem;
+    padding: 0.9375rem 1.25rem 0.9375rem 1.25rem;
+    color: #FEFAE0;
+    font-weight: bold;
+}
+
+a.tbl-brown:hover {
+    background: #5F6F52;
+    text-decoration: none;
+}

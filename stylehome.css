@@ -1,0 +1,51 @@
+*{
+    text-decoration: none;
+    margin: 0rem;
+    padding: 0rem;
+}
+
+body{
+    margin: 0rem;
+    padding: 0rem;
+}
+
+p {
+     margin: 0.625rem 0rem 0.625rem 0rem;
+     padding: 0.625rem 0rem 0.625rem 0rem;
+}
+
+.box-materi {
+    text-align: center;
+    color: black;
+    font-weight: bold;
+    margin-top: 1.875;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 400;
+    font-size: 2.8125rem;
+    align-content: center;
+    /* position: absolute; */
+}
+
+.boxes-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px; /* Optional: Add some margin between heading and boxes */
+  }
+
+.box-kiri, .box-tengah, .box-kanan {
+    width: 18.75rem;
+    height: 20rem;
+    background-color: #FEFAE0;
+    text-align: center;
+    padding-top: 1.875rem;
+    padding-bottom: 0.4375rem;
+    margin: 4.375rem 1.25rem 1.25rem 3.4375rem;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 1.25rem;
+    float: left;
+}
+
+.box-materi h1{
+    font-size: 3rem;
+}

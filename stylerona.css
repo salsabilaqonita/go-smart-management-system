@@ -1,0 +1,127 @@
+*{
+    text-decoration: none;
+    margin: 0rem;
+    padding: 0rem;
+}
+
+body{
+    margin: 0rem;
+    padding: 0rem;
+    font-family: 'Open Lucida','Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.wrapper{
+    width: 68.75rem;
+    margin: auto;
+    position: relative;
+}
+
+.logo a {
+    font-size: 3rem;
+    font-weight: 600;
+    float: left;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #5F6F52;
+}
+
+.menu {
+    float: right;
+    font-size: 2rem;
+    margin-left: 3rem;
+}
+
+nav {
+    width: 100;
+    margin: auto;
+    display: flex;
+    line-height: 2rem;
+    position: sticky;
+    position: -webkit-sticky;
+    top: 0;
+    background: #FEFAE0;
+    z-index: 1000;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+nav ul li {
+    float: left;
+}
+
+nav ul li a {
+    color: black;
+    font-weight: bold;
+    text-align: center;
+    padding: 0rem 1rem 0rem 1rem;
+    text-decoration: none;
+}
+
+nav ul li a:hover {
+    text-decoration: underline;
+}
+
+section {
+    margin: auto;
+    display: flex;
+    margin-bottom: 3.125rem;
+}
+#KategoriPaket {
+    background-color: bisque;
+    height: 100vh;
+    background-position: center;
+    background-size:cover;
+}
+#KategoriPaket1, #KategoriPaket2, #KategoriPaket3, #KategoriPaket4 {
+    background-color: bisque;
+    height: 100%;
+    background-position: center;
+    background-size:100%;
+    margin-bottom: 20px;
+}
+
+
+#KategoriPaket h2{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: lighter;
+    text-align: center;
+    background-color: rgb(158, 144, 125); 
+    color: #5F6F52 !important;
+}
+
+
+.judul-kategori {
+    color: #5F6F52 !important;
+    font-size: 50px;
+}
+
+
+.footer{
+    background-color: antiquewhite;
+    text-align: center;
+}
+.footer .share a{
+    margin: 0 .3rem;
+    height: 4.5rem;
+    width: 4.5rem;
+    line-height: 4.5rem;
+    border-radius: 50%;
+    font-size: 2rem;
+    color: #fff;
+    background-color: var(--black);
+
+}
+
+.footer .share a:hover{
+    background-color: var(--green);
+}
+
+.footer .credit{
+    margin-top: 2.5rem;
+    padding-top: 2.5rem;
+    border-top: .1rem solid var(--black);
+} */
