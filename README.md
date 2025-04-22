@@ -1,106 +1,104 @@
 # 🌐 Go Smart Management System
 
-## 📘 Website Sistem Informasi Manajemen  
+## 📘 Management Information System Website  
 ### ✨ “Go Smart”
 
 ---
 
-## 📝 Deskripsi Website
+## 📝 Website Description
 
-**Go Smart** adalah platform les online yang dirancang untuk membantu siswa dalam persiapan SNBT. Di Go Smart, kami menghadirkan pengalaman belajar yang **inovatif dan interaktif**, memungkinkan pengguna untuk mengakses materi pembelajaran berkualitas dari kenyamanan rumah.  
+**Go Smart** is an online learning platform designed to help students prepare for the Indonesian university entrance exam (SNBT). At Go Smart, we offer an **innovative and interactive** learning experience, allowing users to access high-quality lessons from the comfort of their homes.  
 
-🎯 *"Raih kampus impianmu bersama Go Smart!"*
+🎯 *"Achieve your dream university with Go Smart!"*
 
 ---
 
-## 🖼️ Tampilan Website
+## 🖼️ Website Overview
 
 ### 🔹 Navbar
-- Logo "GoSmart"
-- Menu navigasi: `Home`, `About Us`, `Product`, `Login`
-- Terdapat efek hover yang menampilkan garis bawah pada menu (kecuali login)
+- "GoSmart" logo
+- Navigation menu: `Home`, `About Us`, `Product`, `Login`
+- Hover effect with an underline appears (except on Login)
 
 ---
 
-### 🔹 Halaman Home
+### 🔹 Home Page
 - **Jumbotron**:
-  - Kiri: Gambar ilustrasi
-  - Kanan: Teks `#1 Bimbel Masuk PTN`, slogan, deskripsi singkat
-  - Tombol **Gabung Sekarang** yang mengarah ke halaman register
-- **Footer**: Berisi link ke media sosial Go Smart
+  - Left: Illustration image
+  - Right: Title `#1 Bimbel Masuk PTN`, a short slogan, and description
+  - A **Join Now** button that redirects to the registration page
+- **Footer**: Contains Go Smart's social media links
 
 ---
 
-### 🔹 Halaman Register & Login
+### 🔹 Register & Login Page
 - **Register**:
-  - Form input: Username, Email, Umur, Password
-  - Tombol: `Register` dan `Sign In`
+  - Form inputs: Username, Email, Age, Password
+  - Buttons: `Register` and `Sign In`
 - **Login**:
-  - Akses login untuk pengguna yang telah register
-  - Form: Username dan Password
+  - Form to enter Username and Password for registered users
 
 ---
 
-### 🔹 Halaman About Us
-- Navbar tetap muncul di atas
-- Konten:
-  - Penjelasan keunggulan Go Smart
-  - Tampilan **Top Mentor**
-  - Tampilan **Review Pengguna**: Nama + ulasan
-  - **Footer**: Link media sosial + copyright
+### 🔹 About Us Page
+- Sticky navbar at the top
+- Page contents:
+  - Explanation of Go Smart's advantages
+  - **Top Mentors** section
+  - **User Reviews**: Includes names and user testimonials
+  - **Footer**: Contains social media links and copyright
 
 ---
 
-### 🔹 Halaman Product
-Berisi 4 kategori utama:
+### 🔹 Product Page
+Includes 4 main product categories:
 1. **Live Class**
-2. **Siap UTBK + TO**
-3. **Siap Belajar**
-4. **Diamond**
+2. **UTBK Prep + Try Out**
+3. **Learning Plan**
+4. **Diamond Package**
 
-Setiap kategori memiliki tombol **“Lihat Selengkapnya”** untuk melihat detail paket.
+Each category includes a **"View More"** button for detailed information.
 
-#### 📦 Detail Paket:
+#### 📦 Product Details:
 - **Live Class**:
   - Gold UTBK Saintek
   - Gold UTBK Soshum
   - Silver UTBK Saintek
   - Silver UTBK Soshum
 
-- **Siap UTBK + TO**:
+- **UTBK Prep + Try Out**:
   - Prime UTBK
   - Prime UTBK Lite
-  - Prime UTBK 1 Tahun
-  - Prime UTBK Lite 1 Tahun
+  - Prime UTBK 1 Year
+  - Prime UTBK Lite 1 Year
 
-- **Siap Belajar**:
-  - Prime 1 Tahun
-  - Prime 9 Bulan
-  - Prime 6 Bulan
-  - Prime 1 Bulan
+- **Learning Plan**:
+  - Prime 1 Year
+  - Prime 9 Months
+  - Prime 6 Months
+  - Prime 1 Month
 
 - **Diamond**:
-  - 20x Try Out UTBK
-  - 10x Try Out UTBK
+  - 20x UTBK Try Outs
+  - 10x UTBK Try Outs
 
 ---
 
-### 🛒 Proses Pembelian
-- Klik tombol **Beli** → Akan diarahkan ke halaman login
-- Jika belum register → Akan diarahkan ke halaman register
-- Setelah login → Mengisi form pembayaran
-- Setelah pembayaran berhasil, paket akan aktif di akun pengguna
+### 🛒 Purchase Process
+- Click **Buy** → Redirects to the login page
+- Not registered yet? → Redirects to the registration page
+- After login → Fill out the payment form
+- Upon successful payment, the selected package is activated on the user's account
 
 ---
 
-## 👥 Dibuat oleh
-Salsabila Qonita Kaltsum
-
-📆 Tahun: 2023
+## 👥 Created by
+**Salsabila Qonita Kaltsum**  
+📆 Year: 2023
 
 ---
 
-## 📌 Catatan
-Website ini dibuat sebagai proyek tugas Website Sistem Informasi Manajemen dengan semangat belajar dan kontribusi untuk pendidikan digital di Indonesia.
+## 📌 Note
+This website was built as part of a Management Information System course project, aiming to support digital learning and innovation in Indonesia.
 
 ---
